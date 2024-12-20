@@ -49,7 +49,7 @@ A comprehensive system designed to enhance food safety by tracing food products 
 ---
 
 ## 💬 **Let's Collaborate**
-I'm always open to collaborating on interesting projects. Feel free to reach out to me on my social profiles or via email. 🚀
+I'm always open to collaborating on interesting projects. Feel free to reach out to me on my social profiles. 🚀
 
 ---
 
