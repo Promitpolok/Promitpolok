@@ -4,7 +4,7 @@
 
 🌟 **Code, Compile, Conquer!** 🌟  
 
-I'm passionate about learning new technologies, contributing to exciting projects, and growing as a developer. Currently exploring **Artificial Intelligence** and **Web Development**.
+I'm passionate about learning new technologies, contributing to exciting projects, and growing as a developer. Currently exploring **Artificial Intelligence**.
 
 ---
 
