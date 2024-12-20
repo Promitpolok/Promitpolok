@@ -1,6 +1,6 @@
 ![Header](https://github.com/Promitpolok/Promitpolok/blob/main/Promit%20Chowhan%20Polok.png)
 
-# Hi 👋, I'm Promit Chowhan Polok!
+# Hi, I'm Promit Chowhan Polok!
 
 🌟 **Code, Compile, Conquer!** 🌟  
 
@@ -23,8 +23,8 @@ I'm passionate about learning new technologies, contributing to exciting project
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Promitpolok&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Promitpolok&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Promitpolok&show_icons=true&theme=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Promitpolok&layout=compact&theme=white)
 
 ---
 
