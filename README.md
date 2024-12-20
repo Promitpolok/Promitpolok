@@ -1,4 +1,4 @@
-![Header](https://mail.google.com/mail/u/0?ui=2&ik=0fc678c439&attid=0.1&permmsgid=msg-f:1818987021588427515&th=193e570f08d2f2fb&view=att&disp=safe&realattid=f_m4x4707e0&zw)
+![Header](https://github.com/Promitpolok/Promitpolok/blob/main/Promit%20Chowhan%20Polok.png)
 
 # Hi 👋, I'm Promit Chowhan Polok!
 
