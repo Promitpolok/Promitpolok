@@ -4,7 +4,7 @@
 
 🌟 **Code, Compile, Conquer!** 🌟  
 
-I'm passionate about learning new technologies, contributing to exciting projects, and growing as a developer. Currently exploring **Artificial Intelligence**.
+I'm passionate about learning new technologies, contributing to exciting projects, and growing as a developer. Currently exploring **Frontend Design**.
 
 ---
 
@@ -44,9 +44,8 @@ A comprehensive system designed to enhance food safety by tracing food products 
 ---
 
 ## 🎯 **Goals for 2025**
-- Master **Artificial Intelligence** tools and frameworks.
+- Master **Frontend** tools and frameworks.
 - Build a **personal portfolio website**.
-- Contribute to **open-source projects**.
 
 ---
 
