@@ -44,7 +44,7 @@ A comprehensive system designed to enhance food safety by tracing food products 
 ---
 
 ## 🎯 **Goals for 2025**
-- Master **Frontend** tools and frameworks.
+- Master **Frontend Design**.
 - Build a **personal portfolio website**.
 
 ---
