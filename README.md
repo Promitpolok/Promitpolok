@@ -3,7 +3,7 @@
 # Hi, I'm Promit Chowhan Polok!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=5&color=F75C4C&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Code.;%E2%9A%99%EF%B8%8F+Compile.;%F0%9F%8F%86+Conquer." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=500&pause=10&color=F75C4C&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Code.;%E2%9A%99%EF%B8%8F+Compile.;%F0%9F%8F%86+Conquer." alt="Typing Animation" />
 </p>
 
 
