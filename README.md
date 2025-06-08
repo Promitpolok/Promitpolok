@@ -3,8 +3,9 @@
 # Hi, I'm Promit Chowhan Polok!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=💻+Code.;⚙️+Compile.;🏆+Conquer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&repeat=false&width=500&lines=💻+Code;⚙️+Compile;🏆+Conquer" alt="Typing SVG" />
 </p>
+
 
 
 I'm passionate about learning new technologies, contributing to exciting projects, and growing as a developer. Currently exploring **Frontend Design**.
