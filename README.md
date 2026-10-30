@@ -22,15 +22,43 @@ Currently exploring **Frontend Design** and **Cross-Platform Development**.
 
 ---
 
+
 ## 🛠️ Languages and Tools
 
+### 💻 Programming Languages & Web Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,html,css,java,mysql,git,github,vscode,nodejs,postman,linux,flutter,dart,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,java,mysql,dart,cpp&perline=8" alt="Programming Languages" />
 </p>
+
+### 🧪 Software Testing & QA Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" title="Postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Newman" />
+  <img src="https://img.shields.io/badge/Allure_Report-5A3EE0?style=for-the-badge" alt="Allure Report" />
+</p>
+
+### ⚙️ Development Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,linux,flutter,tailwind&perline=7" alt="Development Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge" alt="Laragon" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+</p>
+
+### 📋 Technical Skills
 
 **Programming & Web Development:** JavaScript, Python, HTML5, CSS3, Java, SQL, Dart, C++
 
-**Software Quality Assurance:** Manual Testing, Functional Testing, Black-box Testing, UI Automation, End-to-End Testing, API Testing, Database Testing, Test Case Design, Bug Reporting
+**Software Quality Assurance:** Manual Testing, Functional Testing, Black-box Testing, UI Automation, E2E Testing, API Testing, Database Testing, Test Case Design, Bug Reporting
 
 **Testing Frameworks & Tools:** Playwright, Postman, Newman, Allure Report, Page Object Model (POM)
 
