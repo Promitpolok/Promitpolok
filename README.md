@@ -1,12 +1,11 @@
 ![Header](https://raw.githubusercontent.com/Promitpolok/Promitpolok/main/Promit%20Chowhan%20Polok.png)
-
 # Hi, I'm Promit Chowhan Polok! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=200&color=F75C4C&center=true&vCenter=true&width=500&lines=💻+Code.;⚙️+Compile.;🏆+Conquer." />
 </p>
 
-I'm passionate about learning new technologies, contributing to exciting projects, and growing as a developer.  
+I'm passionate about learning new technologies, contributing to exciting projects, and growing as a developer.
 Currently exploring **Frontend Design** and **Cross-Platform Development**.
 
 ---
@@ -24,15 +23,31 @@ Currently exploring **Frontend Design** and **Cross-Platform Development**.
 ---
 
 ## 🛠️ Languages and Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,mysql,nodejs,javascript,html,css,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,html,css,java,mysql,git,github,vscode,nodejs,postman,linux,flutter,dart,cpp&perline=8" />
 </p>
+
+**Programming & Web Development:** JavaScript, Python, HTML5, CSS3, Java, SQL, Dart, C++
+
+**Software Quality Assurance:** Manual Testing, Functional Testing, Black-box Testing, UI Automation, End-to-End Testing, API Testing, Database Testing, Test Case Design, Bug Reporting
+
+**Testing Frameworks & Tools:** Playwright, Postman, Newman, Allure Report, Page Object Model (POM)
+
+**Development Tools:** Git, GitHub, VS Code, Node.js, MySQL, Laragon, phpMyAdmin, Netlify, Linux
+
+**Currently Exploring:** Flutter, Frontend Design, CI/CD, AI Engineering, Retrieval-Augmented Generation (RAG)
 
 ---
 
 ## 📊 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promitpolok&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promitpolok&layout=compact&theme=dark&langs_count=8&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <sub>Language statistics are generated dynamically from public GitHub repositories and may not reflect private projects or overall proficiency.</sub>
 </p>
 
 ---
@@ -50,12 +65,57 @@ Currently exploring **Frontend Design** and **Cross-Platform Development**.
 
 ## 🔥 Recent Projects
 
+### 🧪 BookStack — Manual QA Testing & Bug Reporting
+🔗 [View Repository](https://github.com/Promitpolok/BookStack-QA-Testing)
+
+- Executed **12 functional test cases** covering positive, negative, boundary, and edge-case scenarios.
+- Documented **11 passed tests and 1 failed test** against the proposed concurrency-safety expectation.
+- Investigated concurrent page editing and documented a reproducible lost-update scenario.
+- Prepared structured test documentation, bug reports, and screenshot evidence.
+- Designed three potential Playwright automation scenarios.
+
+**Tools & Skills:** Manual Testing, Functional Testing, Test Case Design, Bug Reporting, Git, GitHub, Playwright Test Design
+
+### 🎭 Playwright — End-to-End Web Testing
+- Developed browser automation scenarios for an e-commerce demo application.
+- Implemented **Page Object Model (POM)** for reusable and maintainable test scripts.
+- Automated registration, invalid login validation, product search, cart operations, and checkout.
+- Executed tests across Chromium, Firefox, and WebKit.
+- Achieved **12 passing tests** in the completed assignment.
+
+**Tech Stack:** JavaScript, Node.js, Playwright, POM, Git, GitHub
+
+### 👟 UR Footwear — Men's Footwear E-Commerce Website
+- Developed and customized a men's footwear e-commerce website.
+- Designed responsive product listings, navigation, product detail pages, and cart interactions.
+- Implemented client-side navigation and BDT-based product pricing.
+- Worked on frontend usability, product presentation, and deployment.
+
+**Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, Netlify
+
+### 🎓 AI-Based Education & Career Solutions
+- Designed a web application concept for AI-assisted academic preparation and career readiness.
+- Planned PDF lecture-slide analysis and automated question generation.
+- Designed student answer evaluation and personalized learning guidance.
+- Explored **Small Language Models (SLMs)** and **Retrieval-Augmented Generation (RAG)** for skill recommendations and career guidance.
+
+**Focus Areas:** Web Development, AI Integration, SLM, RAG, Human-Computer Interaction
+
+### 💰 Voice-Based Money Management System
+- Developed an ESP32-based personal expense tracking project.
+- Integrated voice input using an I2S microphone and speech-to-text processing.
+- Designed automated expense categorization and daily, weekly, and monthly tracking.
+- Incorporated OLED-based budget monitoring and expense summaries.
+
+**Tech Stack:** ESP32, INMP441, Deepgram API, Excel, Embedded Systems
+
 ### 🏋️ Fitness Supplement Company
-🔗 https://github.com/Promitpolok/Fitness-Supplement-Company-By_The_Backbenchers.git  
-- Simulation project built using **Java**
+🔗 [View Repository](https://github.com/Promitpolok/Fitness-Supplement-Company-By_The_Backbenchers)
+
+- Simulation project built using **Java**.
 
 ### 🌾 Safe Food Traceability System
-🔗 https://github.com/JamiulIslamNahin/Safe_Food_Traceability_System.git  
+🔗 [View Repository](https://github.com/JamiulIslamNahin/Safe_Food_Traceability_System)
 
 **Features**
 - End-to-end food tracking (farm to fork)
@@ -68,14 +128,20 @@ Currently exploring **Frontend Design** and **Cross-Platform Development**.
 ---
 
 ## 🎯 Goals for 2026
-- Master **Frontend Design**
-- Master **Flutter**
-- Build a **personal portfolio website**
+
+**By December 2026, I aim to:**
+
+- 🧪 **Advance in Software Quality Assurance:** Strengthen manual testing, Playwright automation, API testing, database testing, and professional bug reporting.
+- 💻 **Improve Frontend Development:** Build responsive, accessible, and user-friendly web applications using modern frontend technologies.
+- 🚀 **Build a Professional Portfolio:** Publish and document my strongest web development, automation testing, and AI-related projects on GitHub.
+- ⚙️ **Learn CI/CD for Test Automation:** Explore GitHub Actions and automated regression testing workflows.
+- 🤖 **Explore Practical AI Integration:** Improve my understanding of AI-assisted applications, Small Language Models, and Retrieval-Augmented Generation.
+- 🎯 **Prepare for an Internship or Junior Role:** Strengthen my technical skills, project experience, problem-solving ability, and interview readiness for Software QA or Web Development opportunities.
 
 ---
 
 ## 💬 Let's Collaborate
-I'm always open to collaborating on interesting projects.  
+I'm always open to collaborating on interesting projects.
 Feel free to reach out — let’s build something awesome 🚀
 
 ---
